@@ -1,4 +1,4 @@
-### # In-situ-Water-quality-monitoring-in-Oil-and-Gas-operations
+### In-situ-Water-quality-monitoring-in-Oil-and-Gas-operations
 Salinity and turbidity detection of water ponds using Satellite imagery
 The water quality detection is a statistical algorithm to analyze the quality of water in lakes/ponds/deltas using LandSat8 satellite times series data. The repo contains method for detection on 2 types of dataset, Satelytics dataset (containes all the all the bands into a single .TIF file) and LandSat8 sensor dataset (Contains individual .TIF file for each band)
 
