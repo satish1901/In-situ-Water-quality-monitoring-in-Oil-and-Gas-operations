@@ -1,6 +1,6 @@
 ### In-situ-Water-quality-monitoring-in-Oil-and-Gas-operations
-Salinity and turbidity detection of water ponds using Satellite imagery
-The water quality detection is a statistical algorithm to analyze the quality of water in lakes/ponds/deltas using LandSat8 satellite times series data. The repo contains method for detection on 2 types of dataset, Satelytics dataset (containes all the all the bands into a single .TIF file) and LandSat8 sensor dataset (Contains individual .TIF file for each band)
+Salinity and turbidity detection of water ponds using Satellite imagery.
+The water quality detection is a statistical algorithm to analyze the quality of water in lakes/ponds/deltas using LandSat8 satellite times series data. The repo contains method for detection on 2 types of dataset, Satelytics dataset (contains all the bands into a single .TIF file) and LandSat8 sensor dataset (Contains individual .TIF file for each band)
 
 ### [**Our Method**](to-be-released-soon)
 [Satish Kumar*](https://www.linkedin.com/in/satish-kumar-81912540/), [Rui Kou*](https://www.linkedin.com/in/rui-kou/), [Vikram Jayaram](https://www.linkedin.com/in/vjayaram/)
@@ -16,7 +16,7 @@ This repository includes:
 ![supported versions](https://img.shields.io/badge/python-(3.5--3.8)-brightgreen/?style=flat&logo=python&color=green)
 ![GitHub license](https://img.shields.io/cocoapods/l/AFNetworking)
 
-The repo structure follows standard dataloader and ultily function imported into the main code. Please consider citing/staring our work if it is useful to you
+The repo structure follows standard dataloader and utility function imported into the main code. Please consider citing our work if it is useful to you
 
 ### Requirements
 * Python ≥ 3.5
