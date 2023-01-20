@@ -1,6 +1,5 @@
 ### In-situ-Water-quality-monitoring-in-Oil-and-Gas-operations
-Salinity and turbidity detection of water ponds using Satellite imagery.
-The water quality detection is a statistical algorithm to analyze the quality of water in lakes/ponds/deltas using LandSat8 satellite times series data. The repo contains method for detection on 2 types of dataset, Satelytics dataset (contains all the bands into a single .TIF file) and LandSat8 sensor dataset (Contains individual .TIF file for each band)
+Salinity and turbidity detection of water ponds using satellite imagery. This is a statistical algorithm to analyze water quality in lakes/ponds/deltas using LandSat8 satellite time series data. The repo contains methods for detection on 2 types of datasets, the Satelytics dataset (includes all the bands in a single .TIF file) and LandSat8 sensor dataset (Contains individual .TIF files for each band)
 
 ### [**Our Method**](to-be-released-soon)
 [Satish Kumar*](https://www.linkedin.com/in/satish-kumar-81912540/), [Rui Kou*](https://www.linkedin.com/in/rui-kou/), [Vikram Jayaram](https://www.linkedin.com/in/vjayaram/)
@@ -8,7 +7,7 @@ The water quality detection is a statistical algorithm to analyze the quality of
 <img src="https://github.com/satish1901/In-situ-Water-quality-monitoring-in-Oil-and-Gas-operations/blob/main/.readfiles/method_overview.gif" width="700">
 
 This repository includes:
-* Source code for Water Quality detection alogrithm
+* Source code for Water Quality detection algorithm
 * Dataloader for LandSat8 imagery and Satelytics imager
 * Python code for Pansharpening multispectral image using panchromatic band
 * Example datasample for generating color coded output, histogram, volume of water in pond/lake/delta etc
