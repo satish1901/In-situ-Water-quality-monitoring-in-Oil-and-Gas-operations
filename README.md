@@ -2,7 +2,7 @@
 Salinity and turbidity detection of water ponds using satellite imagery. This is a statistical algorithm to analyze water quality in lakes/ponds/deltas using LandSat8 satellite time series data. The repo contains methods for detection on 2 types of datasets, the Commercial dataset (includes all the bands in a single .TIF file) and LandSat8 sensor dataset (Contains individual .TIF files for each band)
 
 ### [**Our Method**](https://arxiv.org/abs/2301.08800)
-### [*Published: Algorithms, Technologies, and Applications for Multispectral and Hyperspectral Imaging XXIX*]([https://spie.org/dcs23/conferencedetails/algorithms-technologies-and-applications-for-multispectral-and-hyperspectral-imaging](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12519/125190F/In-situ-water-quality-monitoring-in-oil-and-gas-operations/10.1117/12.2663076.full))
+### [*Published: Algorithms, Technologies, and Applications for Multispectral and Hyperspectral Imaging XXIX*]([https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12519/125190F/In-situ-water-quality-monitoring-in-oil-and-gas-operations/10.1117/12.2663076.full])
 [Satish Kumar*](https://www.linkedin.com/in/satish-kumar-81912540/), [Rui Kou*](https://www.linkedin.com/in/rui-kou/), [Vikram Jayaram](https://www.linkedin.com/in/vjayaram/)
 
 <img src="https://github.com/satish1901/In-situ-Water-quality-monitoring-in-Oil-and-Gas-operations/blob/main/.readfiles/method_overview.gif" width="700">
